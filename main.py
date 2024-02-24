@@ -1,4 +1,6 @@
 # 外汇牌价查询
+# selenium 3.141.0
+# urllib3 1.26.2
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
